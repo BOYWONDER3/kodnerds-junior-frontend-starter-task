@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+    margin-block-start: 3rem;
+    margin-inline-start: 10rem;
+}

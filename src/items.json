@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "author": "Faaruq Azeez",
+    "date": "23 May, 2024",
+    "title": "Energy Efficiency ideas to improve business sustainability",
+    "description": "Energy Efficiency with Business Sustainability for substantial savings.",
+    "image": "https://content.resolve.energy/blog/assets/img/uploads/small-business-guide-to-energy-efficiency.jpg",
+    "views": 20,
+    "likes": 20,
+    "comments": 20,
+    "readMore": "#"
+  },
+  {
+    "id": 2,
+    "author": "Dawood Aregbesola",
+    "date": "6 June, 2007",
+    "title": "Reducing Carbon Emissions through Tech Innovation",
+    "description": "Leveraging technology for greener energy solutions.",
+    "image": "https://www.jbs.cam.ac.uk/wp-content/uploads/2022/11/2022-news-reducing-carbon-emissions-883x432-1.jpg",
+    "views": 25,
+    "likes": 18,
+    "comments": 22,
+    "readMore": "#"
+  },
+  {
+    "id": 3,
+    "author": "Isaac Roberts",
+    "date": "23 September, 2020",
+    "title": "Effect of Artificial Business in today's economy",
+    "description": "Simple steps for managing water resources effectively.",
+    "image": "https://media.istockphoto.com/id/1081869166/photo/tweaking-some-finer-details-in-the-data.webp?a=1&b=1&s=612x612&w=0&k=20&c=fn3FsU9xT9nGTW9jFdvjTxDxhYuruzityr4XTgJ459w=",
+    "views": 30,
+    "likes": 15,
+    "comments": 10,
+    "readMore": "#"
+  },
+  {
+    "id": 4,
+    "author": "Major Emmanuel",
+    "date": "2 December, 2003",
+    "title": "Top Strategies for Water Conservation in Business",
+    "description": "Simple steps for managing water resources effectively.",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.di1ZMOFC0cktWHzgI_wnZwHaE7?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "views": 86,
+    "likes": 77,
+    "comments": 98,
+    "readMore": "#"
+  }
+]
